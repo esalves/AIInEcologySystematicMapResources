@@ -2,6 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(curl -s https://api.github.com/repos/itchyshin/quantitative_mapping)"
+    ],
+    "additionalDirectories": [
+      "/Users/z3437171/Dropbox/Github Local/quantitative_mapping/R"
     ]
   }
 }
